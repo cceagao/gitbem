@@ -5,5 +5,10 @@
 tidily we go again
 
 hey guuuuuuurrrrrl
+<<<<<<< HEAD
 This so no dream - this is real
 what is going on here
+=======
+
+DONT CHANGE ANYTHING!!
+i have changed everything!
